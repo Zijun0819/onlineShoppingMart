@@ -1,0 +1,4 @@
+Django==5.1.4
+django-tinymce==4.1.0
+Pillow==11.0.0
+pytz==2018.7
